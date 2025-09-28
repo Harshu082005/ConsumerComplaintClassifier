@@ -39,7 +39,12 @@ Training multiple ML models (Logistic Regression, SVM, Random Forest)
 Evaluating model performance with accuracy, precision, recall, F1-score, and confusion matrix
 
 Making predictions on new complaint text
-<img width="1904" height="1080" alt="image" src="https://github.com/user-attachments/assets/0c75b6e5-4d4d-42f8-9151-18f14aca3c9c" />
+
+4.screenshots
+<img width="1915" height="1080" alt="image" src="https://github.com/user-attachments/assets/956b4e4f-a238-4a70-b37d-20adfc3089cb" />
+<img width="1919" height="1076" alt="image" src="https://github.com/user-attachments/assets/41d3b27b-90ca-491b-a1c9-1579c0813997" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/ecadcd2f-3efd-4238-917a-f4c29f4894c9" />
+
 
 
 
