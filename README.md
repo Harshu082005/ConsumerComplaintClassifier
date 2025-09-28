@@ -44,6 +44,13 @@ Making predictions on new complaint text
 <img width="1915" height="1080" alt="image" src="https://github.com/user-attachments/assets/956b4e4f-a238-4a70-b37d-20adfc3089cb" />
 <img width="1919" height="1076" alt="image" src="https://github.com/user-attachments/assets/41d3b27b-90ca-491b-a1c9-1579c0813997" />
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/ecadcd2f-3efd-4238-917a-f4c29f4894c9" />
+<img width="1920" height="1078" alt="image" src="https://github.com/user-attachments/assets/f1a02a09-ae7d-4bfc-980b-d6670537e434" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/46ca015c-6caa-4565-8d30-1e93435416b8" />
+<img width="1915" height="1080" alt="image" src="https://github.com/user-attachments/assets/3e686722-c343-4125-88fb-2e6fbdacc285" />
+<img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/19feb923-43fe-4f0e-920b-a71b32b26845" />
+<img width="1919" height="1076" alt="image" src="https://github.com/user-attachments/assets/43c4c44c-8569-427e-9146-36b2f6c9bf9f" />
+
+
 
 
 
