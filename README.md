@@ -55,7 +55,7 @@ Making predictions on new complaint text
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f4dfd304-9241-41e3-b72f-a3d7d8543ec1" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4e9dc3a0-524f-408b-8771-12665e408aed" />
+
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/01b5b1ed-c9c9-4e1b-b69f-31f3c9e1fc46" />
 
