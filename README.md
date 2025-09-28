@@ -39,16 +39,12 @@ Training multiple ML models (Logistic Regression, SVM, Random Forest)
 Evaluating model performance with accuracy, precision, recall, F1-score, and confusion matrix
 
 Making predictions on new complaint text
-4.screen shots
-[![Screenshot](https://github.com/user-attachments/assets/f8416994-d081-4224-bf55-1a8d28293acb)](img width="1912" height="1080" alt="image" src="https://github.com/user-attachments/assets/44f93e1e-da87-486f-9fce-a2e4c6ac1bce" /)
-[![Screenshot](https://github.com/user-attachments/assets/f8416994-d081-4224-bf55-1a8d28293acb)](img width="1912" height="1080" alt="image" src="https://github.com/user-attachments/assets/86fec131-44c9-4498-b3cd-a023a3e3e49f" /)
-[![Screenshot](https://github.com/user-attachments/assets/f8416994-d081-4224-bf55-1a8d28293acb)](img width="1912" height="1080" alt="image" src="https://github.com/user-attachments/assets/b84f92f4-9ffa-453c-aba4-1da315df73f6" /)
-[![Screenshot](https://github.com/user-attachments/assets/f8416994-d081-4224-bf55-1a8d28293acb)](img width="1912" height="1080" alt="image" src="https://github.com/user-attachments/assets/58cd4912-8fd1-47b7-a93d-8faad5969d7e/)
-[![Screenshot](https://github.com/user-attachments/assets/f8416994-d081-4224-bf55-1a8d28293acb)](img width="1912" height="1080" alt="image" src="https://github.com/user-attachments/assets/fc20ad91-17f1-4104-9af2-3d601726ac39" /)
+<img width="1904" height="1080" alt="image" src="https://github.com/user-attachments/assets/0c75b6e5-4d4d-42f8-9151-18f14aca3c9c" />
 
 
 
-\
+
+
 
 
 
